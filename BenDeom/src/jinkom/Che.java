@@ -1,6 +1,6 @@
 package jinkom;
 
-//234123
+//123
 //xiugai 修改后
 public class Che implements Run {
 	public void pao() {
