@@ -1,8 +1,10 @@
 package jinkom;
 
+
+//xiugai
 public class Che implements Run {
 	public void pao() {
-		System.out.println("3.5µÄÅÜ");
+		System.out.println("3.5çš„è·‘");
 	}
 
 	
